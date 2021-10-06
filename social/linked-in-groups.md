@@ -18,7 +18,7 @@
  ## User Interface
  
  
- Link Example :  https://groupli.appdews.com/olvm-school-1999-batch
+ Link Example :  groupli.appdews.com/olvm-school-1999-batch
  
  Add Mine Button
 -------------------------------------------------------
