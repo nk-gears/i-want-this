@@ -22,9 +22,9 @@
  
  Add Mine Button
 -------------------------------------------------------
-- 1. User Full Name  - Working Place and Title
-- 2. User Full Name  - Working Place and Title
-- 3. User Full Name  - Working Place and Title
+- 1.  Photo - User Full Name  - Working Place and Title
+- 2.  Photo - User Full Name  - Working Place and Title
+- 3.  Photo - User Full Name  - Working Place and Title
  
  
  
