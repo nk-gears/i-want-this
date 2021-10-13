@@ -8,3 +8,21 @@ Features
 - able to bookmark and favourite a song
 - download
 - share 
+
+
+# Personalized Unified Music API
+
+- Connect with Multiple Music Services
+- Create a Catalog of All your Favourite Music and Playlist
+- Bookmark Playlist and Tracks
+
+Service Layer : 
+
+- Any one can subscribe for the API and Build platers on top of that.
+
+# Personalized Unified Music Player Example
+- Connect to Service  PUM API
+- Retreive and Search Musics
+
+
+Create a Simple Search
